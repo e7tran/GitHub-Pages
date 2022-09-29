@@ -1,0 +1,4 @@
+PRIVATE.txt
+Eric Tran
+A16204941
+C:\Users\erict\GitHub-Pages\.gitignore
